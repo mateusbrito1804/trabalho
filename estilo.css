@@ -1,0 +1,61 @@
+body{
+    background-color: antiquewhite;
+}
+
+.titulo{
+    color: blue;
+}
+
+p{
+   text-align: justify;
+    font-size: larger;
+}
+
+.pc{
+    border-radius: 50%;
+}
+
+ caption{
+    text-align: justify;
+ }
+
+ tr{
+    text-align: center;
+ }
+ .noruega{
+    color: rgb(255, 0, 0);
+    background-color: blue;
+ }
+ 
+ .eua{
+    color: blue;
+    background-color: rgb(245, 8, 8);
+ }
+
+ .japão{
+    color: rgb(247, 7, 7);
+    background-color: aliceblue;
+ }
+    
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+.link:hover{
+    
+    color: rgb(255, 38, 0);
+}
+
+
+
